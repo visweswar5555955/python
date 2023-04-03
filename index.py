@@ -23,5 +23,5 @@ print(pi)
 print(is_valid)
 
 # combine variables in a string
-message = f"{greeting}, nothing yar keep rocking {number}, and pi is {pi}"
+message = f"{greeting},  i am who i am {number}, and pi is {pi}"
 print(message)
